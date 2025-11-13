@@ -1,11 +1,11 @@
-No.,Component,Description,Quantity,Unit Price (INR),Total Price (INR),Unit Price (USD),Total Price (USD),Amazon Link
-1,LRSA 11.1V 4000mAh Li-ion Battery Pack,Rechargeable Battery Pack 18650 (with BMS Protection),1,999,999,11.89,11.89,https://www.amazon.in/gp/product/B0F7HC14F8/
-2,LM2596 Buck Converter Module,DC 4~40V to 1.3–37V 2A Step-Down Converter with Voltmeter,1,275,275,3.27,3.27,https://www.amazon.in/gp/product/B0D8Q778WC/
-3,Skypearll 20A Solar Charge Controller,12V/24V Intelligent Regulator with LCD & USB Port,1,549,549,6.54,6.54,https://www.amazon.in/gp/product/B0D29XMV2W/
-4,ROBODIUM MB102 Breadboard,830 Points Solderless Breadboard ABS Material,1,249,249,2.96,2.96,https://www.amazon.in/gp/product/B0G1JDVWFM/
-5,Aptechdeals Jumper Wires Set,120 pcs Male-Male/Female-Female/Male-Female,1,189,189,2.25,2.25,https://www.amazon.in/gp/product/B074JB6SX8/
-6,INVENTO MG90S Servo Motors,8 pcs Metal Gear 9g Micro Servos,1,2299,2299,27.37,27.37,https://www.amazon.in/gp/product/B08K3TC842/
-7,Raspberry Pi Pico W (with headers),Microcontroller board with Wi-Fi and USB cable,1,1149,1149,13.68,13.68,https://www.amazon.in/gp/product/B0DNYZV4JP/
-8,Electronic Spices Mini Solar Panel,6V 180mA 99x69mm MDF Base DIY Solar Panel,1,229,229,2.73,2.73,https://www.amazon.in/gp/product/B09S6Q8YLP/
-9,Robocraze PCA9685 Driver,16-Channel 12-bit PWM Servo Motor Driver for Arduino/RPi,1,829,829,9.87,9.87,https://www.amazon.in/gp/product/B077T4Q2TP/
-10,Total,Sum of all components,9,7767,7767,87.55,87.55,N/A
+No.,Component,Description,Quantity,Unit Price (INR),Total Price (INR),Amazon Link
+1,LRSA 11.1V 4000mAh Li-ion Battery Pack,Rechargeable Battery Pack 18650 (with BMS Protection),1,999,999,https://www.amazon.in/gp/product/B0F7HC14F8/
+2,LM2596 Buck Converter Module,DC 4~40V to 1.3–37V 2A Step-Down Converter with Voltmeter,1,275,275,https://www.amazon.in/gp/product/B0D8Q778WC/
+3,Skypearll 20A Solar Charge Controller,12V/24V Intelligent Regulator with LCD & USB Port,1,549,549,https://www.amazon.in/gp/product/B0D29XMV2W/
+4,ROBODIUM MB102 Breadboard,830 Points Solderless Breadboard ABS Material,1,249,249,https://www.amazon.in/gp/product/B0G1JDVWFM/
+5,Aptechdeals Jumper Wires Set,120 pcs Male-Male/Female-Female/Male-Female,1,189,189,https://www.amazon.in/gp/product/B074JB6SX8/
+6,INVENTO MG90S Servo Motors,8 pcs Metal Gear 9g Micro Servos,1,2299,2299,https://www.amazon.in/gp/product/B08K3TC842/
+7,Raspberry Pi Pico W (with headers),Microcontroller board with Wi-Fi and USB cable,1,1149,1149,https://www.amazon.in/gp/product/B0DNYZV4JP/
+8,Electronic Spices Mini Solar Panel,6V 180mA 99x69mm MDF Base DIY Solar Panel,1,229,229,https://www.amazon.in/gp/product/B09S6Q8YLP/
+9,Robocraze PCA9685 Driver,16-Channel 12-bit PWM Servo Motor Driver for Arduino/RPi,1,829,829,https://www.amazon.in/gp/product/B077T4Q2TP/
+10,Total,Sum of all components,9,7767,7767 INR / 87.55 USD,N/A
