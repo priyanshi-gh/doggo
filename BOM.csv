@@ -8,5 +8,4 @@ No.,Component,Description,Quantity,Unit Price (INR),Total Price (INR),Unit Price
 7,Raspberry Pi Pico W (with headers),Microcontroller board with Wi-Fi and USB cable,1,1149,1149,13.68,13.68,https://www.amazon.in/gp/product/B0DNYZV4JP/
 8,Electronic Spices Mini Solar Panel,6V 180mA 99x69mm MDF Base DIY Solar Panel,1,229,229,2.73,2.73,https://www.amazon.in/gp/product/B09S6Q8YLP/
 9,Robocraze PCA9685 Driver,16-Channel 12-bit PWM Servo Motor Driver for Arduino/RPi,1,829,829,9.87,9.87,https://www.amazon.in/gp/product/B077T4Q2TP/
-,,,
-,,**Total**,9,7767,7767,87.55,87.55,
+10,Total,Sum of all components,9,7767,7767,87.55,87.55,N/A
